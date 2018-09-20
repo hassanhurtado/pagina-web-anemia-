@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## El 29,6% de mujeres gestantes en el Perú tiene anemia
+Así lo precisa la Encuesta Demográfica y de Salud Familiar 2017, elaborada por Instituto Nacional de Estadística e Informática INEI. En Lima Metropolitana se concentra la mayor cantidad de casos
+En el Perú, tres de cada diez mujeres en estado de gestación (29,6%) padecen de anemia, según indica la Encuesta Demográfica y de Salud Familiar (ENDES) 2017, elaborada por Instituto Nacional de Estadística e Informática (INEI)
 
-You can use the [editor on GitHub](https://github.com/hassanhurtado/pagina-web-anemia-/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
